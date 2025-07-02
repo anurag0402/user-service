@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: User Service API
+  description: API documentation for User Service
+  version: 1.0.0
+servers:
+  - url: http://localhost:8081 
